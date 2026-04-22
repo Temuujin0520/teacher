@@ -1,0 +1,633 @@
+[
+    {
+      "id": 1,
+      "first_name": "temujin",
+      "last_name": "soyol-erdene",
+      "email": "temujin@nhs.edu.mn",
+      "age": 25,
+      "country": "Mongolia",
+      "city": "Ulaanbaatar",
+      "password": "temujin123",
+      "point" : 100,
+      "type": "teacher",
+      "created_at": "2026-03-11",
+      "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+      "item": [
+        {
+            "name": "HTML",
+            "image": "https://cdn-icons-png.flaticon.com/512/5968/5968267.png"
+        }
+      ]
+    },
+    {
+        "id": 2,
+        "first_name": "altan-zangilaa",
+        "last_name": "bat-erdene",
+        "email": "altanzangilaab@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "altan123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-12",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+
+        "item": [
+            {
+                "name": "Bakery",
+                "image": "https://cdn-icons-png.flaticon.com/512/1046/1046784.png"
+            }
+        ]                   
+    },
+    {
+        "id": 3,
+        "first_name": "angaragnaran",
+        "last_name": "dambadorj",
+        "email": "nest21271002@nhs.edu.mn",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "r123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-13",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Car",
+                "image": "https://cdn-icons-png.flaticon.com/512/743/743922.png"
+            }
+        ] 
+    },
+    {
+        "id": 4,
+        "first_name": "badmaarag",
+        "last_name": "gantugs",
+        "email": "badmaarag.gantugs@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "badmaarag123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-14",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Computer",
+                "image": "https://cdn-icons-png.flaticon.com/512/747/747376.png"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "first_name": "bilguun",
+        "last_name": "shirmenbaatar",
+        "email": "bilguun.shirmenbaatar@gmail.com",
+        "age": 16,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "bilguun123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-15",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Phone",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ]
+    
+    },
+    {
+        "id": 6,
+        "first_name": "munkh-orgil",
+        "last_name": "munkh-zorig",
+        "email": "munkhorgil.munkhzorig@gmail.com",
+        "age": 16,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "munkhorgil123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-16",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Book",
+                "image": "https://cdn-icons-png.flaticon.com/512/1048/1048916.png"
+            }
+        ]
+
+    },
+    {
+        "id": 7,
+        "first_name": "munkh-erdene",
+        "last_name": "munkh-erdene",
+        "email": "munkherdene.munkherdene@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "munkherdene123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-17",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Laptop",
+                "image": "https://cdn-icons-png.flaticon.com/512/747/747376.png"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "first_name": "munkh-erdene",
+        "last_name": "munkh-erdene",
+        "email": "munkherdene.munkherdene@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "munkherdene123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-18",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Tablet",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "first_name": "orgil",
+        "last_name": "tsogtsaihan",
+        "email": "orgil.tsogtsaihan@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "orgil123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-19",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Headphones",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "first_name": "TJ",
+        "last_name": "Lawakele",
+        "email": "tj.lawakele@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "tj123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-20",
+       "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Smartwatch",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "first_name": "Tuguldur",
+        "last_name": "Ankhtuya",
+        "email": "tuguldur.ankhtuya@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "tuguldur123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-20",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Camera",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "first_name": "Tuguldur",
+        "last_name": "Ankhtuya",
+        "email": "tuguldur.ankhtuya@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "tuguldur123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-20",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Camera",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "first_name": "Tulga",
+        "last_name": "Erdenebayr",
+        "email": "tulga.erdenebayr@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "tulga123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-20",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Camera",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "first_name": "Telmuun",
+        "last_name": "Narankhuu",
+        "email": "telmuun.narankhuu@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "telmuun123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-20",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Camera",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "first_name": "Tugs-erdene",
+        "last_name": "Shinelundaa",
+        "email": "tugserdene.shinelundaa@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "tugserdene123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-20",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [   
+            {
+                "name": "Camera",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "first-name": "Tuvshin",
+        "last-name": "Bat-erdene",
+        "email": "tuvshin.bat-erdene@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "tuvshin123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-20",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Camera",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "first_name": "Temuulen",
+        "last_name": "Davaadorj",
+        "email": "temuulen.davaadorj@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "temuulen123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-20",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Camera",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "first_name": "Temulen",
+        "last_name": "gantulga",
+        "email": "temulen.gantulga@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "temulen123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-20",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Camera",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "first_name": "Temuujin",
+        "last_name": "Bayasgalan",
+        "email": "temuujin.bayasgalan@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "temuujin123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-20",     
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Camera",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "first_name": "Temujin",
+        "last_name": "Gantulga",
+        "email": "temujin.gantulga@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "temujin123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-20",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Camera",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "first_name": "Turmunkh",
+        "last_name": "Davaa-Ochir",
+        "email": "turmunkh.davaa-ochir@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "turmunkh123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-20",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Camera",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "first_name": "Chinguun",
+        "last_name": "Erdene-Ochir",
+        "email": "chinguun.erdene-ochir@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "chinguun123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-20",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [   
+            {
+                "name": "Camera",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "first_name": "Chinguun",
+        "last_name": "Batbayr",
+        "email": "chinguun.batbayr@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "chingun123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-20",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Camera",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "first_name": "Shinebayr",
+        "last_name": "Tsogoo",
+        "email": "shinebayr.tsogoo@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "shinebayr123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-20",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Camera",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ]
+
+    },
+    {
+        "id": 24,
+        "first_name": "Ermuun",
+        "last_name": "Buyan-baatar",
+        "email": "ermuun.buyan-baatar@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "ermuun123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-20",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Camera",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ]
+
+    },
+    {
+        "id": 25,
+        "first_name": "Erkhem",
+        "last_name": "ganzorig",
+        "email": "erkhem.ganzorig@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "erkhem123",
+        "point" : 100,
+        "type": "student",
+        "created_at": "2026-03-20",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Camera",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ]
+
+    },
+    {
+        "id": 26,
+        "first_name": "Bat-orgil",
+        "last_name": "Ganbaatar",
+        "email": "batorgil@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "batorgil123",
+        "point" : 100,
+        "type": "Teacher",
+        "created_at": "2026-03-20",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Camera",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ]
+
+    },
+    {
+        "id": 27,
+        "first_name":"khishigjargal",
+        "last_name": "Dolgormaa",
+        "email": "Khishig@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "khishgeel123",
+        "point" : 100,
+        "type": "Teacher",
+        "created_at": "2026-03-20",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Camera",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ]
+
+    },
+    {
+        "id": 28,
+        "first_name": "Munkh-orgil",
+        "last_name": "munk-baatar",
+        "email": "munkhuu@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "munkhuu23",
+        "point" : 100,
+        "type": "Teacher",
+        "created_at": "2026-03-20",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Camera",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ]
+
+    },
+    {
+        "id": 29,
+        "first_name": "Barkhasbold",
+        "last_name": "Baatarsuren",
+        "email": "batbold@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "bataal123",
+        "point" : 100,
+        "type": "Teacher",
+        "created_at": "2026-03-20",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [
+            {
+                "name": "Camera",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ]
+
+    },
+    {
+        "id": 30,
+        "first_name": "Azjargal",
+        "last_name": "Bat-erdene",
+        "email": "azaa@gmail.com",
+        "age": 17,
+        "country": "Mongolia",
+        "city": "Ulaanbaatar",
+        "password": "azaa123",
+        "point" : 100,
+        "type": "Teacher",
+        "created_at": "2026-03-20",
+        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "item": [   
+            {
+                "name": "Camera",
+                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
+            }
+        ] 
+    }
+
+]
