@@ -11,7 +11,7 @@
       "point" : 100,
       "type": "teacher",
       "created_at": "2026-03-11",
-      "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+      "image": "https://i.pinimg.com/736x/d0/36/64/d036640606bd06ed0ee429f66c41fcf1.jpg",
       "item": [
         {
             "name": "HTML",
@@ -497,7 +497,7 @@
         "point" : 100,
         "type": "Teacher",
         "created_at": "2026-03-20",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/1200x/fa/71/ed/fa71edc0fac4ceb783d891013798912f.jpg",
         "item": [
             {
                 "name": "Camera",
@@ -581,7 +581,7 @@
         "point" : 100,
         "type": "Teacher",
         "created_at": "2026-03-20",
-        "image": "https://www.pinterest.com/pin/14918242511324246/",
+        "image": "https://i.pinimg.com/736x/fd/cb/77/fdcb7765bbc8b2401ef60f57408c7c2b.jpg",
         "item": [   
             {
                 "name": "Camera",
