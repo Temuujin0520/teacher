@@ -31,7 +31,7 @@
         "point" : 100,
         "type": "student",
         "created_at": "2026-03-12",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/ef/07/b3/ef07b38f276b7d44c930243bc002fbf4.jpg",
 
         "item": [
             {
@@ -52,7 +52,7 @@
         "point" : 100,
         "type": "student",
         "created_at": "2026-03-13",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/ef/07/b3/ef07b38f276b7d44c930243bc002fbf4.jpg",
         "item": [
             {
                 "name": "Car",
@@ -72,7 +72,7 @@
         "point" : 100,
         "type": "student",
         "created_at": "2026-03-14",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/ef/07/b3/ef07b38f276b7d44c930243bc002fbf4.jpg",
         "item": [
             {
                 "name": "Computer",
@@ -92,7 +92,7 @@
         "point" : 100,
         "type": "student",
         "created_at": "2026-03-15",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/ef/07/b3/ef07b38f276b7d44c930243bc002fbf4.jpg",
         "item": [
             {
                 "name": "Phone",
@@ -113,7 +113,7 @@
         "point" : 100,
         "type": "student",
         "created_at": "2026-03-16",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/ef/07/b3/ef07b38f276b7d44c930243bc002fbf4.jpg",
         "item": [
             {
                 "name": "Book",
@@ -121,46 +121,6 @@
             }
         ]
 
-    },
-    {
-        "id": 7,
-        "first_name": "munkh-erdene",
-        "last_name": "munkh-erdene",
-        "email": "munkherdene.munkherdene@gmail.com",
-        "age": 17,
-        "country": "Mongolia",
-        "city": "Ulaanbaatar",
-        "password": "munkherdene123",
-        "point" : 100,
-        "type": "student",
-        "created_at": "2026-03-17",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
-        "item": [
-            {
-                "name": "Laptop",
-                "image": "https://cdn-icons-png.flaticon.com/512/747/747376.png"
-            }
-        ]
-    },
-    {
-        "id": 8,
-        "first_name": "munkh-erdene",
-        "last_name": "munkh-erdene",
-        "email": "munkherdene.munkherdene@gmail.com",
-        "age": 17,
-        "country": "Mongolia",
-        "city": "Ulaanbaatar",
-        "password": "munkherdene123",
-        "point" : 100,
-        "type": "student",
-        "created_at": "2026-03-18",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
-        "item": [
-            {
-                "name": "Tablet",
-                "image": "https://cdn-icons-png.flaticon.com/512/888/888853.png"
-            }
-        ]
     },
     {
         "id": 9,
@@ -174,7 +134,7 @@
         "point" : 100,
         "type": "student",
         "created_at": "2026-03-19",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/ef/07/b3/ef07b38f276b7d44c930243bc002fbf4.jpg",
         "item": [
             {
                 "name": "Headphones",
@@ -194,7 +154,7 @@
         "point" : 100,
         "type": "student",
         "created_at": "2026-03-20",
-       "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+       "image": "https://i.pinimg.com/736x/ef/07/b3/ef07b38f276b7d44c930243bc002fbf4.jpg",
         "item": [
             {
                 "name": "Smartwatch",
@@ -214,7 +174,7 @@
         "point" : 100,
         "type": "student",
         "created_at": "2026-03-20",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/ef/07/b3/ef07b38f276b7d44c930243bc002fbf4.jpg",
         "item": [
             {
                 "name": "Camera",
@@ -234,7 +194,7 @@
         "point" : 100,
         "type": "student",
         "created_at": "2026-03-20",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/ef/07/b3/ef07b38f276b7d44c930243bc002fbf4.jpg",
         "item": [
             {
                 "name": "Camera",
@@ -254,7 +214,7 @@
         "point" : 100,
         "type": "student",
         "created_at": "2026-03-20",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/ef/07/b3/ef07b38f276b7d44c930243bc002fbf4.jpg",
         "item": [
             {
                 "name": "Camera",
@@ -274,7 +234,7 @@
         "point" : 100,
         "type": "student",
         "created_at": "2026-03-20",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/ef/07/b3/ef07b38f276b7d44c930243bc002fbf4.jpg",
         "item": [
             {
                 "name": "Camera",
@@ -294,7 +254,7 @@
         "point" : 100,
         "type": "student",
         "created_at": "2026-03-20",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/ef/07/b3/ef07b38f276b7d44c930243bc002fbf4.jpg",
         "item": [   
             {
                 "name": "Camera",
@@ -314,7 +274,7 @@
         "point" : 100,
         "type": "student",
         "created_at": "2026-03-20",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/ef/07/b3/ef07b38f276b7d44c930243bc002fbf4.jpg",
         "item": [
             {
                 "name": "Camera",
@@ -334,7 +294,7 @@
         "point" : 100,
         "type": "student",
         "created_at": "2026-03-20",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/ef/07/b3/ef07b38f276b7d44c930243bc002fbf4.jpg",
         "item": [
             {
                 "name": "Camera",
@@ -354,7 +314,7 @@
         "point" : 100,
         "type": "student",
         "created_at": "2026-03-20",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/ef/07/b3/ef07b38f276b7d44c930243bc002fbf4.jpg",
         "item": [
             {
                 "name": "Camera",
@@ -374,7 +334,7 @@
         "point" : 100,
         "type": "student",
         "created_at": "2026-03-20",     
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/ef/07/b3/ef07b38f276b7d44c930243bc002fbf4.jpg",
         "item": [
             {
                 "name": "Camera",
@@ -394,7 +354,7 @@
         "point" : 100,
         "type": "student",
         "created_at": "2026-03-20",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/ef/07/b3/ef07b38f276b7d44c930243bc002fbf4.jpg",
         "item": [
             {
                 "name": "Camera",
@@ -414,7 +374,7 @@
         "point" : 100,
         "type": "student",
         "created_at": "2026-03-20",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/ef/07/b3/ef07b38f276b7d44c930243bc002fbf4.jpg",
         "item": [
             {
                 "name": "Camera",
@@ -424,7 +384,7 @@
     },
     {
         "id": 21,
-        "first_name": "Chinguun",
+        "first_name": "Chinguun E",
         "last_name": "Erdene-Ochir",
         "email": "chinguun.erdene-ochir@gmail.com",
         "age": 17,
@@ -434,7 +394,7 @@
         "point" : 100,
         "type": "student",
         "created_at": "2026-03-20",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/ef/07/b3/ef07b38f276b7d44c930243bc002fbf4.jpg",
         "item": [   
             {
                 "name": "Camera",
@@ -444,7 +404,7 @@
     },
     {
         "id": 22,
-        "first_name": "Chinguun",
+        "first_name": "Chinguun B ",
         "last_name": "Batbayr",
         "email": "chinguun.batbayr@gmail.com",
         "age": 17,
@@ -454,7 +414,7 @@
         "point" : 100,
         "type": "student",
         "created_at": "2026-03-20",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/ef/07/b3/ef07b38f276b7d44c930243bc002fbf4.jpg",
         "item": [
             {
                 "name": "Camera",
@@ -474,7 +434,7 @@
         "point" : 100,
         "type": "student",
         "created_at": "2026-03-20",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/ef/07/b3/ef07b38f276b7d44c930243bc002fbf4.jpg",
         "item": [
             {
                 "name": "Camera",
@@ -495,7 +455,7 @@
         "point" : 100,
         "type": "student",
         "created_at": "2026-03-20",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/ef/07/b3/ef07b38f276b7d44c930243bc002fbf4.jpg",
         "item": [
             {
                 "name": "Camera",
@@ -516,7 +476,7 @@
         "point" : 100,
         "type": "student",
         "created_at": "2026-03-20",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/ef/07/b3/ef07b38f276b7d44c930243bc002fbf4.jpg",
         "item": [
             {
                 "name": "Camera",
@@ -558,7 +518,7 @@
         "point" : 100,
         "type": "Teacher",
         "created_at": "2026-03-20",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/54/b5/37/54b537d0d2e9c68c937ba94bd3c78d9e.jpg",
         "item": [
             {
                 "name": "Camera",
@@ -579,7 +539,7 @@
         "point" : 100,
         "type": "Teacher",
         "created_at": "2026-03-20",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/c7/98/e4/c798e4348bdf705628c2acb8716b46e4.jpg",
         "item": [
             {
                 "name": "Camera",
@@ -600,7 +560,7 @@
         "point" : 100,
         "type": "Teacher",
         "created_at": "2026-03-20",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://i.pinimg.com/736x/45/24/da/4524da832acca46d322c34b6ece0d548.jpg",
         "item": [
             {
                 "name": "Camera",
@@ -621,7 +581,7 @@
         "point" : 100,
         "type": "Teacher",
         "created_at": "2026-03-20",
-        "image": "https://cdn-icons-png.flaticon.com/512/149/149071.png",
+        "image": "https://www.pinterest.com/pin/14918242511324246/",
         "item": [   
             {
                 "name": "Camera",
